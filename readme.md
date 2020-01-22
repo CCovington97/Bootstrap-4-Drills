@@ -13,7 +13,7 @@ The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its 
 ### Containers and the Grid System
 1. Add a div to your html document, using bootstraps container class, have this be a container.
 2. To visually see what a container class does to a div, we will need to apply some styling to it in CSS. Let’s go to our CSS document and apply a background-color of blue and a height of 500px to anything with a class named container (Which for now should only be 1 element).
-3. Change the class on the div from a container to a container-fluid. Don't forget to change your CSS selector to container-fluid as well! Refresh and take not of the differences. Once you are finished visually seeing the difference between the two, remove or comment out the styling in the CSS file.
+3. Change the class on the div from a container to a container-fluid. Don't forget to change your CSS selector to container-fluid as well! Refresh and take note of the differences. Once you are finished visually seeing the difference between the two, remove or comment out the styling in the CSS file.
 4. Change the container-fluid back to container.
 5. Insert a div inside of the existing container div. Give this div a class name of row, then insert an h1 element inside of the row div. Have the text read “First Boostrap Project”.
 6. Refer to this link on the grid system to learn how rows and alignment work using bootstrap.
